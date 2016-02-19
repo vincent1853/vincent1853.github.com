@@ -1,0 +1,58 @@
+body{
+	margin:0;
+	padding: 0;
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    font-size: 14px;
+    color: #555;
+}
+
+a{
+	text-decoration: none;
+	color:#555;
+}
+.header{
+	margin: 0 auto;
+	width: 80%;
+	height: 140px;
+	text-align: right;
+	border-bottom: 1px solid #BEBEBE;
+
+}
+
+.header h1{
+	float:left;
+	font-weight: bold;
+	padding-top: 52px;
+}
+
+
+.header p{
+	float: right;
+	display: block;
+	margin-top:110px;
+}
+.header a{
+	font-size: 15px;
+	padding-left: 15px;
+	padding-right: 15px; 
+}
+
+.wrapper{
+    width: 80%;
+}
+
+.main{
+    width: 50%;
+    float: left;
+}
+
+.main ul{
+	padding-left: 0;
+}
+
+.nav{
+   width: 25%;
+   float: right;
+   border-left: 1px solid #555;
+}
+
